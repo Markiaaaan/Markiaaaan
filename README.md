@@ -104,6 +104,22 @@ Small tools, experiments and things I'm currently building.
 
 </div>
 
+##🔥 Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Markiaaaan&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+##📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Markiaaan&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" />
+
+</div>
+
 ---
 
 <div align="center">
