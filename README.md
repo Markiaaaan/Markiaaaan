@@ -25,9 +25,8 @@
 
 ```text
 > developer
-> learning C / C++
-> building with Python & Django
-> exploring web development
+> learning C / C++, Python, how not to be expelled from college
+> exploring machine learning
 > always learning something new
 ```
 
