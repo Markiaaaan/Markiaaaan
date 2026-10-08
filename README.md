@@ -112,14 +112,6 @@ Small tools, experiments and things I'm currently building.
 
 </div>
 
-##📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Markiaaan&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" />
-
-</div>
-
 ---
 
 <div align="center">
